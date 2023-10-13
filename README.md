@@ -12,9 +12,4 @@
     <img align="center" alt="Weather App" height="720" width="480" src="https://i.imgur.com/Lzi0NxK.png" ">
 
 <hr>
-<h2>Personalize suas Preferências</h2>
-<p>Se desejar receber atualizações personalizadas com base em suas preferências climáticas, o "Weather App" oferece a capacidade de configurar notificações e preferências para mantê-lo informado sobre as condições que mais lhe interessam.</p>
-<h2>Recursos Adicionais</h2>
-
-
 
