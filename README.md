@@ -19,7 +19,7 @@
     <h3>Clone o Repositório</h3>
     <p>Clone o repositório do projeto "Weather App" do GitHub para a sua máquina local:</p>
     <pre>
-        <code>git clone https://github.com/seu-usuario/weather-app.git</code>
+        <code>git clone https://github.com/saak01/Weather-App.git</code>
     </pre>
     <hr>
     <h3>Execute o Projeto</h3>
