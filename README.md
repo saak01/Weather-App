@@ -15,9 +15,6 @@
 <h2>Personalize suas Preferências</h2>
 <p>Se desejar receber atualizações personalizadas com base em suas preferências climáticas, o "Weather App" oferece a capacidade de configurar notificações e preferências para mantê-lo informado sobre as condições que mais lhe interessam.</p>
 <h2>Recursos Adicionais</h2>
-<ul>
-    <li>Para obter informações detalhadas sobre como a aplicação coleta dados meteorológicos, visite <a href="https://seu-site-weather-app.com/about">esta página</a>.</li>
-    <li>Para receber assistência e suporte, entre em contato conosco através de <a href="https://seu-site-weather-app.com/contact">este link</a>.</li>
-</ul>
+
 
 
